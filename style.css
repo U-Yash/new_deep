@@ -1569,7 +1569,7 @@ body{
 
 .marquee-inner {
   display: flex;
-  animation: marqueeScroll 20s linear infinite;
+  animation: marqueeScroll 10s linear infinite;
   white-space: nowrap;
 }
 
@@ -1845,7 +1845,7 @@ body{
 .faq-answer {
   max-height: 0;
   overflow: hidden;
-  background: rgba(255, 255, 255, 0.12);
+  background: rgba(255, 25https://new-deep.vercel.app/5, 255, 0.12);
   color: #fff;
   transition: max-height 0.4s ease, padding 0.4s ease;
   padding: 0 20px;
